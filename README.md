@@ -37,7 +37,7 @@ na maior jogada e vai decaindo de jogada até a de menor valor.
  $ python test.py 
  ```
 
-   - Aqui a aplicação realizará os testes unitários e os resultados serão mostrados em ordem de processamento de
+   Aqui a aplicação realizará os testes unitários e os resultados serão mostrados em ordem de processamento de
     acordo com a arquitetura do projeto.
 
 Referência
