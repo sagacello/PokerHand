@@ -30,12 +30,14 @@ na maior jogada e vai decaindo de jogada até a de menor valor.
 ##  Testando a aplicação
 ```
  $ python principal.py 
+ ```
     Aqui a aplicação mostrará todos os resultados das comparações entre as mãos em ordem de entrada de vetores.
-
+```
  $ python test.py 
+ ```
     Aqui a aplicação realizará os testes unitários e os resultados serão mostrados em ordem de processamento de
     acordo com a arquitetura do projeto.
-```
+
 Referência
 ----
 - Regras : https://www.pokerstars.com/br/poker/games/rules/?no_redirect=1
